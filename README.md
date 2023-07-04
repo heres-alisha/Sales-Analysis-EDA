@@ -1,0 +1,1 @@
+This project examines product sales throughout all 12 months, identifying the specific timings during which sales were highest. Additionally, the analysis aims to determine the most popular product sold during this period.
